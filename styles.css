@@ -14,6 +14,10 @@ body {
   position: absolute;
 }
 
+.odin-logo {
+  position: absolute;
+}
+
 .second-col {
   display: block;
 }
