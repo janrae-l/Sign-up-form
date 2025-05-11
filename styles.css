@@ -67,6 +67,7 @@ body {
   display: block;
   background-color: white;
   padding: 10rem 0 10rem 2rem;
+  background-color: rgb(248, 248, 248);
 }
 
 .statement {
@@ -93,4 +94,13 @@ input {
 
 input {
   margin-bottom: 1.2rem;
+}
+
+form {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 30px;
+  margin-left: -2rem;
+  background-color: white;
+  box-shadow: 3px 5px 5px rgb(233, 233, 233);
 }
