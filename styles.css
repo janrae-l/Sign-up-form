@@ -54,7 +54,7 @@ body {
 
 .photo-credit {
   position: absolute;
-  bottom: -33.5rem;
+  bottom: 0;
   left: 6rem;
   color: white;
 }
