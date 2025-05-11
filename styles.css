@@ -52,6 +52,17 @@ body {
   font-size: 5rem;
 }
 
+.photo-credit {
+  position: absolute;
+  bottom: -33.5rem;
+  left: 6rem;
+  color: white;
+}
+
+.photo-credit > a {
+  color: white;
+}
+
 .second-col {
   display: block;
   background-color: white;
