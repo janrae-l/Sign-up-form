@@ -5,5 +5,9 @@ body {
 }
 
 .first-col {
-  width: 40%;
+  width: 60%;
+}
+
+.background-img {
+  width: 100%;
 }
