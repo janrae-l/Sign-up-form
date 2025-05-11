@@ -66,4 +66,5 @@ body {
 .second-col {
   display: block;
   background-color: white;
+  padding: 10rem 0 10rem 2rem;
 }
