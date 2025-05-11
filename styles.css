@@ -111,6 +111,14 @@ form {
   box-shadow: 3px 5px 5px rgb(233, 233, 233);
 }
 
+.form-row input {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 3px;
+  padding: 5px;
+  width: 100%;
+}
+
 .third-container {
   margin-top: 30px;
 }
