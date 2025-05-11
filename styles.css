@@ -112,6 +112,11 @@ form {
   box-shadow: 3px 5px 5px rgb(233, 233, 233);
 }
 
+input:focus {
+  border: 1px solid yellow;
+  box-shadow: 3px 5px 5px rgb(233, 233, 233);
+}
+
 .form-row input {
   background-color: #ffffff;
   border: 1px solid #e5e7eb;
