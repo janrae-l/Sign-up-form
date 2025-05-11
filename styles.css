@@ -98,8 +98,8 @@ input {
   gap: 4rem;
 }
 
-h2 {
-  margin-bottom: 15px;
+form > h2 {
+  margin-bottom: 25px;
 }
 
 form {
