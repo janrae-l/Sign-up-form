@@ -68,3 +68,10 @@ body {
   background-color: white;
   padding: 10rem 0 10rem 2rem;
 }
+
+.statement {
+  font-size: 1.2rem;
+  width: 54ch;
+  margin-right: 5rem;
+  margin-bottom: 1rem;
+}
