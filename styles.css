@@ -117,3 +117,7 @@ button {
   font: inherit;
   border-radius: 7px;
 }
+
+.third-container > p {
+  margin-top: 30px;
+}
