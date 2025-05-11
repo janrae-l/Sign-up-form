@@ -130,12 +130,17 @@ label {
 }
 
 button {
-  padding: 10px 50px;
+  font: inherit;
+  padding: 15px 50px;
+  font-size: 1.5rem;
+  font-style: bold;
   background-color: #596d48;
   color: white;
   border: none;
   font: inherit;
   border-radius: 7px;
+
+  margin-top: 10px;
 }
 
 .third-container > p {
