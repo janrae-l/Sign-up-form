@@ -130,10 +130,10 @@ label {
 }
 
 button {
-  font: inherit;
+  font-family: "Helvetica", "Arial", sans-serif;
   padding: 15px 50px;
   font-size: 1.5rem;
-  font-style: bold;
+  font-weight: 600;
   background-color: #596d48;
   color: white;
   border: none;
