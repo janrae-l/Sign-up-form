@@ -2,3 +2,7 @@ body {
   display: flex;
   flex-direction: row;
 }
+
+.first-col {
+  width: 40%;
+}
