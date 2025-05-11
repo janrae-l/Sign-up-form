@@ -24,6 +24,7 @@ body {
 .odin-logo {
   width: 20%;
   color: white;
+  opacity: 1;
 }
 
 .second-col {
