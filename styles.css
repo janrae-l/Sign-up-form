@@ -121,6 +121,10 @@ form {
   margin-bottom: 1.2rem;
 }
 
+input:invalid {
+  border: 1px solid red;
+}
+
 label {
   font-size: 0.9rem;
 }
