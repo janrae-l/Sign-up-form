@@ -34,6 +34,11 @@ body {
   text-align: center;
   color: white;
   top: 11rem;
+  padding: 0.6rem 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .odin-logo {
