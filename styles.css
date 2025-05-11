@@ -57,7 +57,8 @@ body {
 
 .photo-credit {
   position: absolute;
-  bottom: 0;
+  bottom: 10px;
+  font-size: 0.8rem;
   left: 11rem;
   color: white;
   text-align: center;
