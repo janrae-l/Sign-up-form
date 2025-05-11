@@ -65,6 +65,7 @@ body {
 }
 
 .second-col {
+  height: 67.6rem;
   width: 60%;
   display: block;
   background-color: white;
