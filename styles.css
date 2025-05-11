@@ -16,6 +16,9 @@ body {
 
 .odin-logo {
   position: absolute;
+  background: black;
+  opacity: 0.6;
+  text-align: center;
 }
 
 .second-col {
