@@ -14,11 +14,16 @@ body {
   position: absolute;
 }
 
-.odin-logo {
+.odin-logo-cont {
   position: absolute;
   background: black;
-  opacity: 0.6;
+  opacity: 0.5;
   text-align: center;
+}
+
+.odin-logo {
+  width: 20%;
+  color: white;
 }
 
 .second-col {
