@@ -23,15 +23,21 @@ body {
 
 .odin-logo-cont {
   position: absolute;
-  background: black;
+  background-color: black;
   opacity: 0.5;
   text-align: center;
+  color: white;
 }
 
 .odin-logo {
-  width: 20%;
+  width: 15%;
   color: white;
   opacity: 1;
+}
+
+.odin-text {
+  font-family: "Norse-Bold";
+  font-size: 5rem;
 }
 
 .second-col {
